@@ -3,7 +3,15 @@
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 
 
+### Demo Screeshots of Notepad
 
+![Notepad](./ReadmeResources/1.png "Notepad")
+<h3>Tasks added</h3>
+
+[Notepad](./ReadmeResources/MainWindow%202023-09-13%2000-46-11.mp4 "Notepad")
+
+<h3>Tasks deleted</h3>
+<br>
 
 to start the project 
 <br>
