@@ -1,4 +1,5 @@
 # Notepad App Using 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
 
@@ -29,9 +30,7 @@ then enjoy using the notepad 😃 🎊
 
 ##  Tech Stacks
 
-<img src="https://drive.google.com/file/d/1NajqZ4JDR6dXtPVoTysLx_u-zDSvajz7/view?usp=sharing">
-<!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> -->
-<img src="">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <br>
 
 
