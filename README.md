@@ -10,8 +10,9 @@
 <h3>Tasks added</h3>
 
 [Notepad](./ReadmeResources/MainWindow%202023-09-13%2000-46-11.mp4 "Notepad")
+[Notepad](https://youtu.be/NJpD5nm8L9I "Notepad")
 
-<h3>Tasks deleted</h3>
+<h3>Tasks deleted</https://youtu.be/NJpD5nm8L9Ih3>
 <br>
 
 to start the project 
