@@ -11,7 +11,8 @@
 
 [Notepad](./ReadmeResources/MainWindow%202023-09-13%2000-46-11.mp4 "Notepad")
 [Notepad](https://youtu.be/NJpD5nm8L9I "Notepad")
-[Watch the Video](https://youtu.be/NJpD5nm8L9I)
+[![Video Thumbnail]()](https://youtu.be/NJpD5nm8L9I)
+
 
 
 <h3>Tasks deleted</https://youtu.be/NJpD5nm8L9Ih3>
